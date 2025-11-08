@@ -34,3 +34,16 @@ Built on cutting-edge **multimodal AI**, the bot understands and responds to **n
    git clone https://github.com/YourUsername/AI-Chat-Bot.git
    cd AI-Chat-Bot
 
+2. **Open the project**
+
+   Simply open the index.html file in your browser.
+   
+   Or use a local server (e.g., Live Server in VS Code) for a smoother experience.
+
+3. **Add your Gemini API key**
+
+   In your JavaScript file (e.g., main.js), replace the placeholder with your actual API key:
+   
+   const API_KEY = "YOUR_GEMINI_API_KEY";
+
+
